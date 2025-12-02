@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "エゴイスト",
+  "base_artist": "大沼パセリ",
+  "createdAt": "2025-12-02T13:02:41.969890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロマンチスト・エゴイスト",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/01_ロマンチスト・エゴイスト_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロマンチスト・エゴイスト",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_ロマンチスト・エゴイスト_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エゴイスト",
+      "artist": "大沼パセリ",
+      "has_synced": true,
+      "path": "select/03_エゴイスト_大沼パセリ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エゴイスト",
+      "artist": "大沼パセリ feat. v flower",
+      "has_synced": true,
+      "path": "select/04_エゴイスト_大沼パセリ_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エゴイスト・・・?",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/05_エゴイスト・・・_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エゴイスト",
+      "artist": "Parsley Onuma",
+      "has_synced": true,
+      "path": "select/06_エゴイスト_Parsley_Onuma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エゴイスト - egoist",
+      "artist": "Paseri Onuma",
+      "has_synced": true,
+      "path": "select/07_エゴイスト_-_egoist_Paseri_Onuma.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エゴイスト",
+      "artist": "大沼パセリ",
+      "has_synced": true,
+      "path": "select/08_エゴイスト_大沼パセリ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エゴイスト (feat. 小豆沢こはね",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/09_エゴイスト_(feat._小豆沢こはね_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エゴイスト (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/10_エゴイスト_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エゴイスト",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO",
+      "has_synced": true,
+      "path": "select/11_エゴイスト_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エゴイスト/flower",
+      "artist": "大沼パセリ",
+      "has_synced": true,
+      "path": "select/12_エゴイスト_flower_大沼パセリ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エゴイスト",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/13_エゴイスト_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "エゴイスト",
+      "artist": "Paseri Onuma",
+      "has_synced": true,
+      "path": "select/14_エゴイスト_Paseri_Onuma.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "エゴイスト - EGOIST",
+      "artist": "Parsley Onuma",
+      "has_synced": true,
+      "path": "select/15_エゴイスト_-_EGOIST_Parsley_Onuma.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "エゴイスト - EGOIST (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/16_エゴイスト_-_EGOIST_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エゴイスト",
+      "artist": "大沼パセリ",
+      "has_synced": false,
+      "path": "select/pl_01_エゴイスト_大沼パセリ.txt"
+    }
+  ]
+}
